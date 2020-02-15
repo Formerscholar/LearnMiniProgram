@@ -1,3 +1,9 @@
 <!--pages/home/home.wxml-->
-<text class="title">Hellow Wrold</text>
-<button size="mini">按钮</button>
+<view>Hello {{name}}</view>
+<view>我的年龄:{{age}}</view>
+
+<view wx:for="{{students}}">{{item.name}}-{{item.age}}</view>
+
+<view>当前计数:{{coutent}}</view>
+<button size="mini" bindtap="addBtnClick">+</button>
+<button size="mini" bindtap="subBtnClick">-</button>
