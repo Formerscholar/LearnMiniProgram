@@ -1,2 +1,9 @@
 <!--pages/home/home.wxml-->
+<!-- 1.只获取用户信息的方式 -->
+<button size="mini" open-type="getUserInfo" bindgetuserinfo="handGetUserInfo">
+  获取授权
+</button>
 
+<!-- 2.只展示用户信息的方式 -->
+<open-data type="userNickName"></open-data>
+<open-data type="userAvatarUrl"></open-data>

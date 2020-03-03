@@ -1,4 +1,4 @@
-// pages/home/home.js
+// pages/category/category.js
 Page({
 
   /**
@@ -7,14 +7,11 @@ Page({
   data: {
 
   },
-  handGetUserInfo(event) {
-    console.log(event)
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-  
 
   },
 
