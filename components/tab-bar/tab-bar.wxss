@@ -1,0 +1,17 @@
+/* components/tab-bar/tab-bar.wxss */
+.content{
+  display: flex;
+  height: 96rpx;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  align-items: center;
+}
+.box{
+  flex: 1;
+  text-align: center;
+  font-size: 32rpx;
+}
+.title{
+  border-bottom: 3px solid red;
+  padding: 16rpx;
+}

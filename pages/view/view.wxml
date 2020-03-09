@@ -1,0 +1,14 @@
+
+<view>123</view>
+<view>123</view>
+<view>123</view>
+
+<swiper>
+  <swiper-item>1232323</swiper-item>
+  <swiper-item>456</swiper-item>
+  <swiper-item>789</swiper-item>
+  <swiper-item>1232323</swiper-item>
+</swiper>
+
+
+<view>123</view>

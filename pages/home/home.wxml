@@ -1,3 +1,5 @@
 <!--pages/home/home.wxml-->
 <text class="title">Hellow Wrold</text>
 <button size="mini">按钮</button>
+
+<tab-bar></tab-bar>

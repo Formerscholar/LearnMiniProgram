@@ -1,0 +1,13 @@
+<!--components/tab-bar/tab-bar.wxml-->
+
+<view class="content">
+  <view class="box">
+    <text class="title">衣服</text>
+  </view>
+  <view class="box">
+    <text class="">裤子</text>
+  </view>
+  <view class="box">
+    <text class="">鞋子</text>
+  </view>
+</view>
